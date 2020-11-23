@@ -1,11 +1,4 @@
-<h3 align="center">Connect with me</h3>
-<p align="center">
-  <a href= "https://www.linkedin.com/in/jbk005/"><img src="https://img.icons8.com/dusk/48/000000/linkedin.png"/></a>
-  <a href= "https://medium.com/@jbharathkumar770"><img src="https://img.icons8.com/dusk/48/000000/medium-new.png"/></a>
-  <a href= "https://twitter.com/JBK_005"><img src="https://img.icons8.com/dusk/48/000000/twitter.png"/></a>
-  <a href= "https://t.me/jbk005"><img src="https://img.icons8.com/color/48/000000/telegram-app.png"/></a>
-  <a href= "https://www.youtube.com/c/JBK005"><img src="https://img.icons8.com/dusk/48/000000/youtube--v2.png"/></a>
-</p>
+#This is another project for random password generator using random , string, ascii.
 
 <p>
   <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api/?username=jbk005&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/>
